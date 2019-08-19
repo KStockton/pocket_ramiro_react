@@ -6,6 +6,8 @@ The overall purpose of this application is to allow facility workers to keep tra
 
 View the website here https://pocket-ramiro-react.herokuapp.com/
 
+The backend repo is no longer supported but can be installed locally (here)[https://github.com/cw-tries-aws/pocket_ramiro_rails]
+
 ## Wireframe: 
 ![Page_1](https://user-images.githubusercontent.com/34406483/62841583-1fa3e980-bc67-11e9-9c05-1be00fe37436.png)
 
